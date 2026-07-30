@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Bernardo! 👋
 
-<!--
-**bernardosevero/bernardosevero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Building stuff since 2019.**
 
-Here are some ideas to get you started:
+I consider myself a product engineer, always looking to be in touch with customer demand to final delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 I also teach code at Alura—take a look at my <a href="https://www.alura.com.br/formacao-full-stack-react-node-js">fullstack courses</a>.
+* 🇧🇷 Born and raised in Brazil.
+* 🧠 Currently exploring: Rust, Geolocalization caching, and complex system architectures.
+
+🎲 Beyond the Code
+
+I love playing RPG🐉 with my friends and watch some good movies with my girlfriend
+
+---
+
+📫 Let's connect on <a href="https://linkedin.com/in/bernardosevero">LinkedIn</a>!
