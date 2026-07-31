@@ -10,7 +10,7 @@ I consider myself a product engineer, always looking to be in touch with custome
 
 🎲 Beyond the Code
 
-I love playing RPG🐉 with my friends and watch some good movies with my girlfriend
+I love playing RPG 🐉 and studying Greek mythology 🏛️
 
 ---
 
