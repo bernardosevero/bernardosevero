@@ -13,5 +13,6 @@ I consider myself a product engineer, always looking to be in touch with custome
 I love playing RPG 🐉 and studying Greek mythology 🏛️
 
 ---
+💻 <a href="https://bernardosevero.github.io/bernardosevero.dev/">Check my website</a>!
 
 📫 Let's connect on <a href="https://linkedin.com/in/bernardosevero">LinkedIn</a>!
